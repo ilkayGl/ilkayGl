@@ -4,6 +4,7 @@
 I'm İlkay from Turkey, and I do content on Design and Devolopment. 
 
 ## Skills and Experience
+* 🌐 Asp.Net Core Mvc
 * 🅰 Angular
 * #️⃣ C# (Sharp)
 * 💻 HTML / CSS / JS 
