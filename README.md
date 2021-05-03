@@ -16,6 +16,7 @@ I'm İlkay from Turkey, and I do content on Design and Devolopment.
 * <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 
 * <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
+* <img src="https://img.shields.io/badge/My_SQL_Server-CC2927?style=for-the-badge&logo=sql-server&logoColor=white"></img>
 
 <a href="https://www.linkedin.com/in/ilkay-gül-839502170/" target="_blank" rel="nofollow"><img alt="İlkay's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ilkaygl@outlook.com" target="_blank" rel="nofollow"><img alt="İlkay's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
