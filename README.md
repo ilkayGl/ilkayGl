@@ -16,7 +16,7 @@ I'm İlkay from Turkey, and I do content on Design and Devolopment.
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
 
 * <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-  <img src="https://img.shields.io/badge/My_SQL_Server-303F9F?style=for-the-badge&logo=mysql&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/MySQL_Server-303F9F?style=for-the-badge&logo=mysql&logoColor=white"></img>
 
 
 
