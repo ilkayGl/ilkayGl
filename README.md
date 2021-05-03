@@ -10,6 +10,7 @@ I'm İlkay from Turkey, and I do content on Design and Devolopment.
 * <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img> 
   <img src="https://img.shields.io/badge/ASP.Net Core MVC-BA68C8?style=for-the-badge&logo=.net&logoColor=white"></img> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/GIT-f44336?style=for-the-badge&logo=git&logoColor=white"></img>
 * <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
