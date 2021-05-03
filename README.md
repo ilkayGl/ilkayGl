@@ -10,6 +10,9 @@ I'm İlkay from Turkey, and I do content on Design and Devolopment.
 * 💻 HTML / CSS / JS 
 * 🛢 Microsoft SQL Server
 
+<a href="https://www.linkedin.com/in/ilkay-gül-839502170/" target="_blank" rel="nofollow"><img alt="İlkay's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ilkaygl@outlook.com" target="_blank" rel="nofollow"><img alt="İlkay's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilkayGl)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ilkay-gül/)  
 
 
