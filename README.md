@@ -8,6 +8,7 @@ I'm İlkay from Turkey, and I do content on Design and Devolopment.
 
 ## 🛠 Skills and Experience
 * <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img> 
+  <img src="https://img.shields.io/badge/ASP.Net Core MVC-BA68C8?style=for-the-badge&logo=.net&logoColor=white"></img> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 * <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
