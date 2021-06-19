@@ -1,9 +1,9 @@
-![](https://media-exp1.licdn.com/dms/image/C4D16AQFtfFicQhpnWw/profile-displaybackgroundimage-shrink_350_1400/0/1616528347824?e=1623283200&v=beta&t=TVx4wXv2nr4FK5-jNgSX5MCiYuzPwY9BVQD66MRMRmc)
+![](https://media-exp1.licdn.com/dms/image/C4D16AQFtfFicQhpnWw/https://www.linkedin.com/in/ilkay-gül/detail/background-image/-shrink_350_1400/0/1616528347824?e=1623283200&v=beta&t=TVx4wXv2nr4FK5-jNgSX5MCiYuzPwY9BVQD66MRMRmc)
 
 ## Hi there 👋, I'm ilkay Gül
 I'm İlkay from Turkey, and I do content on Design and Devolopment. 
 
-<a href="https://www.linkedin.com/in/ilkay-gül/detail/background-image/" target="_blank" rel="nofollow"><img alt="İlkay's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ilkay-gül/" target="_blank" rel="nofollow"><img alt="İlkay's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ilkaygl@outlook.com" target="_blank" rel="nofollow"><img alt="İlkay's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## 🛠 Skills and Experience
