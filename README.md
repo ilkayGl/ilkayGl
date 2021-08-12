@@ -1,6 +1,6 @@
 
 
-<img src="![Uploading download.gif…]()" width=100%></img>
+<img src="" width=100%></img>
 ## Hi there 👋, I'm ilkay Gül
 I'm İlkay from Turkey, and I do content on Design and Devolopment. 
 
