@@ -1,6 +1,5 @@
 
-
-![download](https://user-images.githubusercontent.com/72944987/129269989-9890d220-e66b-4e23-aa17-48043f9830d7.gif)
+![ilkay](https://user-images.githubusercontent.com/72944987/129270206-dbcb5c79-dc40-446a-8332-9654fe443032.gif width=100%)
 
 
 ## Hi there 👋, I'm ilkay Gül
