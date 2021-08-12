@@ -1,5 +1,7 @@
 
 
+![download](https://user-images.githubusercontent.com/72944987/129269989-9890d220-e66b-4e23-aa17-48043f9830d7.gif)
+
 
 ## Hi there 👋, I'm ilkay Gül
 I'm İlkay from Turkey, and I do content on Design and Devolopment. 
